@@ -5,7 +5,7 @@ A full-stack real estate web app I built where buyers can browse property listin
 Built with **React + Vite** on the frontend and **Express + MongoDB + Socket.io** on the backend.
 
 ## Live Demo
-[Nestly](https://nestly-real-estate-listing-portal.vercel.app)]
+[Nestly](https://nestly-real-estate-listing-portal.vercel.app)
 -----
 
 ## Why I built this
